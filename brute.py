@@ -1,8 +1,5 @@
 #!usr
 # -*- coding: UTF-8 -*-
-# Mod by: MR.K7C8NG
-# team: life of programmer
-
 
 import os
 import sys
@@ -37,30 +34,25 @@ def banner():
     os.system('clear')
     print " "
     runntxt(GL+"              Assalamu'@laikum. ^_^")
-    runntxt(WW+"   ..................  ANDA MENCOBA MENGHUBUNGI")
-    runntxt(WW+"     ....       MR.K7C8NG")
-    runntxt(GL+"                   BODO AMAT CUK")
-    runntxt(GG+"     ..........     MANDI DULU SANA")
-    runntxt(Y+"    ............       DILARANG CO*I")
-    runntxt(GG+"           INGAT COK ")
+    runntxt(WW+"   ......
     time.sleep(1.5)
     print GG+"  √=============================================√"
-    print GL+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
+    print GL+"  |••••••   NEW TOOLS HACK FACEBOOK    ••••••|"
     print GG+"  √=============================================√"
-    print WW+"  |            MOD BY: MR.K7C8NG             |"
-    print GL+"  |       Berdoa Dulu Sebelum Menggunakan       |"
-    print WW+"  |        TEAM : InDoNeSiA CYBER ErRoR SyStEm            |"
-    print Y+"  |             INSTAGRAM: pranata_pasha              |"
+    print WW+"  |            MOD BY: Hart 7                   |"
+    print GL+"  |       anak angkat mbah google               |"
+    print WW+"  |        independent hacker                   |"
+    print Y+"  |                                              |"
     print GL+"  |---------------------------------------------|"
     print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]         |"
     print GL+"  |---------------------------------------------|"
     print GG+"  √=============================================√"
-    print GL+"  |•••••••••   HACK FACEBOOK MAS ^_^   •••••••••|"
+    print GL+"  |•••••••••   HACK FACEBOOK         •••••••••|"
     print GG+"  √=============================================√"
 
 banner()
 
-print wd+"         gunakan dengan bijak cok "
+print wd+"         kamu bagian dari black hat"
 print GG+"╭────\033[91m[\033[96m Masukkan ID\033[95m / \033[96mUsername Target\033[91m ] "
 email_target = str(raw_input(GL+"\033[92m╰────➲\033[93m  "))
 print " "
@@ -173,8 +165,8 @@ def runn_noobs():
               `-/+///..````..://+/-`
                   `.-::////::-.` \033[91;1m
 
-                \033[90;1mLife Of Programmer\033[91;1m
-             Powered by:\033[97m MR.K7C8NG
+                \033[90;1mhacker independent\033[91;1m
+             Powered by:\033[97m hart 7
       """
 
 
